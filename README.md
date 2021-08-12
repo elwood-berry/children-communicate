@@ -1,3 +1,8 @@
-# angular-ivy-utcfcy
+# Children Communicate
+A deep dive in the constructs of data emitting.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-utcfcy)
+---  
+  
+# References  
+1. [Sharing data between child and parent directives and components](https://angular.io/guide/inputs-outputs)
+1. **Live Example**: [Inputs & Outputs](https://gkdgyxorpad.angular.stackblitz.io)
